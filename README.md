@@ -1,2 +1,2 @@
-# katlynnewburn.gethub.io
+# katlynnewburn.github.io
 Mini-Assignments
